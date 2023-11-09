@@ -98,8 +98,6 @@ python-dateutil==2.8.2
     #   pandas
 pytz==2023.3.post1
     # via pandas
-pywin32==306
-    # via jupyter-core
 pyzmq==25.1.1
     # via
     #   ipykernel
